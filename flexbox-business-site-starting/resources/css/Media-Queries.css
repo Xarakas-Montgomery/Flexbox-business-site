@@ -1,0 +1,100 @@
+@media screen and (max-width: 1153px) {
+    nav {
+        height: 100px;
+    }
+    .header-logo-hibiscus, .header-logo-order {
+        font-size: 3rem;
+     }
+    .header-logo-order {
+        width: 130%;
+    }
+     .header-icon img {
+        width: 63% !important;
+     }
+    nav ul {
+        font-size: 0.75rem;
+        letter-spacing: 0.07rem;
+     }
+    main h1, h3 {
+        font-size: 3.10rem;
+     }
+    main .description {
+        font-size: 1.85rem;
+     }
+    main .motto {
+        font-size: 1.77rem;
+     }
+    button {
+        width: 30%;
+        height: 30px;
+     }
+    .videos video{
+        width: 520px;
+        height: 220px;
+    }
+ }
+@media screen and (max-width: 884px) {
+    nav {
+        height: 80px;
+    }
+    .header-logo-hibiscus, .header-logo-order {
+        font-size: 2rem;
+     }
+    .header-icon img {
+        width: 43% !important;
+     }
+    nav ul {
+        font-size: 0.65rem;
+        letter-spacing: 0.06rem;
+     }
+    main h1, h3 {
+        font-size: 2.85rem;
+     }
+    main .description {
+        font-size: 1.35rem;
+     }
+    main .motto {
+        font-size: 1.25rem;
+     }
+    button {
+        width: 25%;
+        height: 27px;
+     }
+    .videos video{
+        width: 430px;
+        height: 185px;
+    }
+
+ }
+@media screen and (max-width: 596px) {
+    nav {
+        height: 60px;
+    }
+    .header-logo-hibiscus, .header-logo-order {
+        font-size: 1rem;
+     }
+    .header-icon img {
+        width: 23% !important;
+     }
+    nav ul {
+        font-size: 0.485rem;
+        letter-spacing: 0.06rem;
+     }
+    main h1, h3 {
+        font-size: 2.55rem;
+     }
+    main .description {
+        font-size: 1.255rem;
+     }
+    main .motto {
+        font-size: 0.855rem;
+     }
+    button {
+        width: 20%;
+        height: 25px;
+     }
+    .videos video{
+        width: 340px;
+        height: 150px;
+    }
+}
